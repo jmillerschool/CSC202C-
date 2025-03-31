@@ -1,0 +1,17 @@
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\bin\Debug\net8.0-windows\CSC202Assign3.1.exe
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\bin\Debug\net8.0-windows\CSC202Assign3.1.deps.json
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\bin\Debug\net8.0-windows\CSC202Assign3.1.runtimeconfig.json
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\bin\Debug\net8.0-windows\CSC202Assign3.1.dll
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\bin\Debug\net8.0-windows\CSC202Assign3.1.pdb
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3._1.Geckos.resources
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.csproj.GenerateResource.cache
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.AssemblyInfoInputs.cache
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.AssemblyInfo.cs
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.csproj.CoreCompileInputs.cache
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.dll
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\refint\CSC202Assign3.1.dll
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.pdb
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3.1.genruntimeconfig.cache
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\ref\CSC202Assign3.1.dll
+G:\CSC202 C#\CSC202Assign3.1\CSC202Assign3.1\obj\Debug\net8.0-windows\CSC202Assign3._1.frmSecret.resources
